@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@gluon-framework/gluon": "^0.14.0"
+  }
+}
